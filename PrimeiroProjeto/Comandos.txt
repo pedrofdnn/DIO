@@ -1,0 +1,7 @@
+1 - npm init -y = inicia um projeto node automatico
+
+3 - node + loca e nome do arquivo = roda arquivo javaScript
+
+2 - Comando para deixar o chamado automatico para o arquivo em execução no modo de espera!
+    comando = node --watch + local do arquivo para ficar executando.
+
